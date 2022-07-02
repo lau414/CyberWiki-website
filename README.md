@@ -4,7 +4,7 @@ This is an HTML project where I create my own website called CyberWiki. The purp
 
 This project was done using the online interface Glitch. Here are some images of some of the results.
 
-You can also access the website using this link: cyberwiki.glitch.me
+You can also access the website using this link for the Spanish version: cyberwiki.glitch.me
 
 ![image](https://user-images.githubusercontent.com/101092127/176998308-ae53a7d8-e253-4a09-950f-b76535e9002c.png) 
 ![image](https://user-images.githubusercontent.com/101092127/176998400-dbbda7af-2543-4bd5-aa7e-3fe78b7bf3be.png)
